@@ -1,0 +1,43 @@
+  nav>ul>li{
+    display: inline-block;
+    margin-right: 5%;
+  }
+
+  nav>ul>li>a{
+    font-family: 'Merienda', cursive;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  nav>ul>li>a:hover{
+    color: black;
+    text-decoration: underline;
+  }
+
+  img{
+      width: 50%;
+  }
+
+  .topbar{
+      padding-top: 2%;
+      padding-bottom: 1%;
+      text-align: center;
+      background-color: #7b898b26;
+      margin: 1.5%;
+      border-radius: 0.25rem;
+      font-family: 'Cinzel', serif;
+  }
+
+  a, .title h5{
+    color: white;
+  }
+
+  .col-md-4{
+    margin-left: auto;
+    padding-left: auto;
+  }
+
+  .col-md-2{
+    margin-right: auto;
+    padding-right: auto;
+  }
